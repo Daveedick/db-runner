@@ -1,0 +1,358 @@
+{
+  "format": 1,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "08a8045355b519fc6bddf634ef7ddcc3384fc0d1c525a8ac7ef69d9a539e9707"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "1d888f5e43ee22620e5a19f6025da22714724a484dbbfe2c38b5636079a6418a"
+    },
+    {
+      "path": "README.md",
+      "sha256": "3def0495ca2e9a5fc5a3e431f6307a267a296f7ccf27f4db579b18d844101470"
+    },
+    {
+      "path": "index.html",
+      "sha256": "5e523182e4541b91cf63157681510db4c4681afa8d7fef73ba54aad0a76162a9"
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "e71ecae4f2a935e25704e2e04271de83613d6b5c14446b6f26ed60bb4e5cadbe"
+    },
+    {
+      "path": "package.json",
+      "sha256": "d77cd3d2334e3a151768b831b8a2924c657c9d8a891edc5dd5ec66e912717bd4"
+    },
+    {
+      "path": "public/environment/corona-sign.png",
+      "sha256": "a65a0c43ed54713967fa156d24f69473ec5a4295816728728e30f6f9b5eec692"
+    },
+    {
+      "path": "public/environment/neon-gym.webp",
+      "sha256": "f70b0fa540e357876a1bea5b34c432da4d5a61033610f75efc9ff2827c70b295"
+    },
+    {
+      "path": "public/environment/neon-gym.webp.json",
+      "sha256": "d60af904a3abab4e621dca16d52a335914f8bff8448cd199047256553c69f850"
+    },
+    {
+      "path": "public/environment/rio-landmark.webp",
+      "sha256": "10c54f5fd9a45ed226d9f7bf6b51cf6702d72be79ae501a819c14649ec3200d8"
+    },
+    {
+      "path": "public/environment/rio-landmark.webp.json",
+      "sha256": "bd25b0c662fa0b182408382b36ae725d003ce6c0cf27a739e265bd3122ce367d"
+    },
+    {
+      "path": "public/environment/rio-meet-korona.webp",
+      "sha256": "8cb38c145f6ce37d9c2b6b1c67b7108a66c92d483ab606b9cacd227c40b95b35"
+    },
+    {
+      "path": "public/environment/rio-meet.webp",
+      "sha256": "ca62e9266599c4af158d412d0ecb74fbbcad9d9ee647a7f21e2bdeddf4fc9380"
+    },
+    {
+      "path": "public/environment/rio-meet.webp.json",
+      "sha256": "debaee9316d98bd9837480a170b2d7ce58f965aa592aaa973f054001d8ccb8de"
+    },
+    {
+      "path": "public/environment/rio-skyline.webp",
+      "sha256": "40825e204ab43ae4ea96bb9bab0c3e4de74a8e5cac4f5cb000fb1c96b9d3ffae"
+    },
+    {
+      "path": "public/environment/rio-skyline.webp.json",
+      "sha256": "76413831d9f6d9ab1ce24c21035468a624641ef3ac7fe63cb7adf82070ea0993"
+    },
+    {
+      "path": "public/items/dumbbell-pile.webp",
+      "sha256": "fae3384c2eeb3c123dd60e4e5a40a289840df78d195bee8fb9cb1c85478db56f"
+    },
+    {
+      "path": "public/items/dumbbell.webp",
+      "sha256": "7a0123fe90ce7263202dbb76c6014611d02d82137210e624b6cfd342b8a5dbdd"
+    },
+    {
+      "path": "public/items/korona-bottle.webp",
+      "sha256": "21313a77e7c807805f6b1a546a8bfdb3b5436b656ca14095ecdb398a18dd724b"
+    },
+    {
+      "path": "public/items/plates-messy.webp",
+      "sha256": "64d49638cea36946d6d2ea978e80ddbb5b97f96495371bbb618be37ec90069a3"
+    },
+    {
+      "path": "public/items/plates.webp",
+      "sha256": "b09feeebdd6a466b8c4da4b4e8b1a81c1f5e2ffe5e05830a6ee8a3e4e48b9121"
+    },
+    {
+      "path": "public/items/protein-bar.webp",
+      "sha256": "dda801fb850ddb1e93427b16f4c82721cc7d1f45b138a3a06099c4321c4c6f6b"
+    },
+    {
+      "path": "public/items/protein-berry.webp",
+      "sha256": "7b5e161020df09a23eec50e80c1b68fa6003fd13fb7720bff6b96d0e1d34bec9"
+    },
+    {
+      "path": "public/items/protein-coconut.webp",
+      "sha256": "b1e38ab0bb438c06ce725b722fc61a2cadb18d724d43c6f84bd9225352fc698e"
+    },
+    {
+      "path": "public/items/protein-pistachio.webp",
+      "sha256": "7d98021586643a37cf7b86013178ff861f46554a96dcf3f4290f2156e1b8cf0d"
+    },
+    {
+      "path": "public/items/pump-berry.webp",
+      "sha256": "50385360d24a6ae92ea1a251e17444b1c59ccd79b6e41fa0f37f4267143b405b"
+    },
+    {
+      "path": "public/items/pump-chocolate.webp",
+      "sha256": "6a0c97e62cd0b5d22f62c17b4819d63720b3184f34ed60b5fb959a31452c8b63"
+    },
+    {
+      "path": "public/items/pump-coconut.webp",
+      "sha256": "f9ce68091a0c77889ad8d366b4547089c14b68a7a92722d221f8024ce2a5ccf6"
+    },
+    {
+      "path": "public/items/pump-pistachio.webp",
+      "sha256": "6d2e94d181effe2af048198094904491de2a0617140f00e766001b09055b9674"
+    },
+    {
+      "path": "public/items/step-towel.webp",
+      "sha256": "47c57db6f56ce29c767e8d61ee8e43746a77b79ce682f5e6adc3e248d757766f"
+    },
+    {
+      "path": "public/items/step.webp",
+      "sha256": "7c4c719cfa992cb7ebee8f079d608e4f3e429d2794aedfc10426aea12621d4c0"
+    },
+    {
+      "path": "public/player-sprite-diesel-restored.png",
+      "sha256": "5bd9a849f4ed64b23774509fc3e271e6640a18bb099c1332a0d93bc423da6988"
+    },
+    {
+      "path": "public/player-sprite-diesel.png",
+      "sha256": "affd92b00cf169a6175500ca56edd664b3f7fc9cb5b42f1f75c09b9d7514d61f"
+    },
+    {
+      "path": "public/player-sprite-restored.png",
+      "sha256": "94c53bd4fcb6a3fb784ce4026408f18bacb5f64d3ff85c498422ae704ad47845"
+    },
+    {
+      "path": "public/player-sprite.png",
+      "sha256": "7a95a12dbf2561ac702b67654d80c6f9c8dccadc7ecb8e67213b8f2677721f2c"
+    },
+    {
+      "path": "public/track-corona.mp3",
+      "sha256": "b8e01ca193d9cc4a8fa87e6456d15587003c5be482beb7c5d01afe9297f2096c"
+    },
+    {
+      "path": "public/track-intro.mp3",
+      "sha256": "139068ab4e32dff66336fdb0ee50646e08e07e9c4b8a62d4691de31cc5dccd02"
+    },
+    {
+      "path": "public/track-main.mp3",
+      "sha256": "2d02ca5f64b4ad166879431245b23e12c4d2e71951392b52514afee053132e7b"
+    },
+    {
+      "path": "public/track-menu.mp3",
+      "sha256": "3c8c2b0dbd9c1166476639ccd0bb1ab26b46a0ca4e3d5755b79982f0098587d2"
+    },
+    {
+      "path": "public/track.mp3",
+      "sha256": "3a7fc5c9f77480afb37a600aa2193cec3260397f6bf9f908b88534e77039927f"
+    },
+    {
+      "path": "screenshots/gameplay.png",
+      "sha256": "68e485426f3a83999c26ca6a6f9a6308f0d6855aaabd41dbf9fb76b0272dcd7c"
+    },
+    {
+      "path": "screenshots/main-menu.png",
+      "sha256": "a63032770525bd05a1ababa31c7241a47884fe8c75a2e5e2d82a6c17f70ebf33"
+    },
+    {
+      "path": "scripts/dev.mjs",
+      "sha256": "94bdde6fb04570a116771a7e98a1f98aab6279652be8541a7808a51c7c4534d7"
+    },
+    {
+      "path": "server/admin.ts",
+      "sha256": "78c2b16cf0d6cfd2c1eb25c6cc335362b9f75a5f398c96e79d4eca08d3294089"
+    },
+    {
+      "path": "server/app.ts",
+      "sha256": "caf1287442407f065004c8c9456ff59e1db04b37e62c1594bed9305d8f630d72"
+    },
+    {
+      "path": "server/database.ts",
+      "sha256": "3335b5a5363deda88e52f27473ca9c84b96aaf26f2c7bbd21217cda159f8721d"
+    },
+    {
+      "path": "server/index.ts",
+      "sha256": "dbafda3ec0822b5b7475065b1f67a939e9d690087282fd84259df7b3fc87e88d"
+    },
+    {
+      "path": "server/publicMessages.ts",
+      "sha256": "f7faaa652a16b490660f18c5138f4ce4ee3c134ccbf82d7fbfff61c7acc1386d"
+    },
+    {
+      "path": "server/validation.ts",
+      "sha256": "553066434223bf5eeb8991ca1044700e662afbb57350b533f9903caa1f2be431"
+    },
+    {
+      "path": "src/game/AudioManager.ts",
+      "sha256": "76ace145b1f63f67ce5001a98f626e90b0ab444b72446b30b38925ad03a875b4"
+    },
+    {
+      "path": "src/game/GainerCourse.ts",
+      "sha256": "89d8505bf537766eaa7e24b1e65761d7b081ed4f471bbc0943f6d939c5c48d50"
+    },
+    {
+      "path": "src/game/GainerRun.ts",
+      "sha256": "9fd36ce71868d77394d0bbd41c7f99ff22f86eac770e3b88566bf955dc259205"
+    },
+    {
+      "path": "src/game/Game.ts",
+      "sha256": "e4247b0bca57378c1db886e79c1333689e3d7f33ad46630546d285598421341d"
+    },
+    {
+      "path": "src/game/GymEnvironment.ts",
+      "sha256": "09b7d485956b4b408ed3ce581de94f926935c0189617c22a25f17dafc78544c7"
+    },
+    {
+      "path": "src/game/Input.ts",
+      "sha256": "e8d42e8acb74af995a0106e71fff7521a1c56f3e4981d286c4b4589adce40cde"
+    },
+    {
+      "path": "src/game/Obstacle.ts",
+      "sha256": "a1c9e476183fb56f413d133cce8831580b024dd73d3c4e28e64056186ca86591"
+    },
+    {
+      "path": "src/game/ObstacleManager.ts",
+      "sha256": "ffa19bf60489e5f2b5800e1061679c2cf9a053c5d0b0a93835dd8c303cc4aed8"
+    },
+    {
+      "path": "src/game/Player.ts",
+      "sha256": "12675d5528335772310c29539b997fca7dd8b5d0b45a86524e51aefe9a589f3d"
+    },
+    {
+      "path": "src/game/RioEnvironment.ts",
+      "sha256": "096d1d6025469a04496bcf3d312c586450284e22992fd7eadae9f2d7ff06492b"
+    },
+    {
+      "path": "src/game/RunHistory.ts",
+      "sha256": "b6156567f4d0416a001a84e2da553c4ed670b4e87022e8169a725f6ea5240459"
+    },
+    {
+      "path": "src/game/RunUI.ts",
+      "sha256": "529e102bb9f0a5ff1ad235bb1dcbfeb13b251a50539d4dfe172eba6e19b3892e"
+    },
+    {
+      "path": "src/game/types.ts",
+      "sha256": "9e7e5db66297e809ad7148b42deaf4b98b87ca3b6956078a0db460bba23a3f1d"
+    },
+    {
+      "path": "src/i18n/index.ts",
+      "sha256": "fb78ed1efc32de540a975004b2d008baf16259250832069e4a1e61d1612d14f2"
+    },
+    {
+      "path": "src/i18n/locale.ts",
+      "sha256": "3543f2ba2abe3003c14fb2f6046082149adbae253d0fc518e357389e9fdef6bd"
+    },
+    {
+      "path": "src/i18n/messages.ts",
+      "sha256": "d65d71393cab3a532d843fca58ccffa810367b3c12632a5885c5d0fe34ab6668"
+    },
+    {
+      "path": "src/main.ts",
+      "sha256": "51a0f0b186b9e5de4a549be1316ad5180be0c286e87e5b09af4764e230c78430"
+    },
+    {
+      "path": "src/online/OnlineClient.ts",
+      "sha256": "5c32302389273d675f793f5f9e0300a922ce1512ed1a62abf149c9a521e65ab9"
+    },
+    {
+      "path": "src/online/OnlineUI.ts",
+      "sha256": "e69683d7e0a301a3c044fcb4c94b73801515cafdcbbe30b1604e1d78452b1704"
+    },
+    {
+      "path": "src/online/contracts.ts",
+      "sha256": "897d7a66c94f76effddbbfcf7c34ce10af673c75c50d08b3d3d33781a6548c5a"
+    },
+    {
+      "path": "src/online/messages.ts",
+      "sha256": "667b650f151e7e38db45100e177bc75d9e5c6422d91be029ad77077d5204ed1c"
+    },
+    {
+      "path": "src/online/online.css",
+      "sha256": "dd089d1483b3773fcf0625e7656aa1ad81b8ada665bc9d684e84964f35cb5763"
+    },
+    {
+      "path": "src/styles.css",
+      "sha256": "776aa9a644d1c744ea6381ad9770aa9bbb2549d97061629213e5c67ec5e14fd2"
+    },
+    {
+      "path": "tests/audio.test.mjs",
+      "sha256": "8c447c04e9aff83a8c3d95f9e5b6598bf67b14371ac28fcbb5fe737185fde4ae"
+    },
+    {
+      "path": "tests/environment.test.mjs",
+      "sha256": "4e013f55fa58b4e000c381aee73af2d6870e58cdf9d83ed06b5bd2a90bd797ee"
+    },
+    {
+      "path": "tests/gainer.test.mjs",
+      "sha256": "b5e6a3fee1212b2eb502775c664a963ce033ef9245e4947a8ba3a0661c78535e"
+    },
+    {
+      "path": "tests/game-lifecycle.test.mjs",
+      "sha256": "8b65464b2096d06e210ae08edb1d2dd4b55d1c233d27ca4c5f3aa61823b447d4"
+    },
+    {
+      "path": "tests/localization.test.mjs",
+      "sha256": "d444d2c81f6039fc181a24f1434465c728b86a91f507c71d32a50a6531ed1d30"
+    },
+    {
+      "path": "tests/online-client.test.mjs",
+      "sha256": "f27acd9e9036d8f62c46462524e7d8361e3efac1438989b1daa2d5a75c882c63"
+    },
+    {
+      "path": "tests/online-ui.test.mjs",
+      "sha256": "e674856afc399fcaa3e6ec86e5bb5aefbce84d47df9c73eb978dfbf9bd4f93b2"
+    },
+    {
+      "path": "tests/player-art.test.mjs",
+      "sha256": "a07e8a6adb777f212538ec8bf535f1296185ffafb71f38ea7066aeeacf32edb2"
+    },
+    {
+      "path": "tests/release.test.mjs",
+      "sha256": "9acee3b533a2a9a8308a5d5878254d545a1803a378fe7d2968bddee6a7f8a851"
+    },
+    {
+      "path": "tests/rio-environment.test.mjs",
+      "sha256": "4979e91734203cbb3f39b7226c454fff3cf8fbe397fad730a019d40c5195f13f"
+    },
+    {
+      "path": "tests/run-ui.test.mjs",
+      "sha256": "9c2fb375dba57623bc5a23a7c9c6ee8b242488dd1c3a818f1f6a9503c3060054"
+    },
+    {
+      "path": "tests/server-online.test.mjs",
+      "sha256": "ae19c3353ee037422b54ae61a5851925a0d3705aafea6314644c9bff184f6e87"
+    },
+    {
+      "path": "tests/source-module.mjs",
+      "sha256": "a4d1d231e6e36fea34b4fe632d66342bf6261c22bc80782badf5b0e198ea1c00"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "1f38f29f3085d56d2dddb329e02bd9e4d3c09d870ed01e8db2f40fe861317433"
+    },
+    {
+      "path": "tsconfig.server.json",
+      "sha256": "4ffb17f22c3e890d487181c9b16b05fe7eb19c69ca9ddaa858f777c4ccabd7ba"
+    },
+    {
+      "path": "vite.config.ts",
+      "sha256": "c0ca88630c17a3e0b80cb165177d08675301ab1ba72e62eef8f1155635fba9b6"
+    }
+  ],
+  "removed": []
+}

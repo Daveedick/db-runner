@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.server-build/
+data/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+.DS_Store
+.impeccable/

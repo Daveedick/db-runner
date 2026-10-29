@@ -1,0 +1,27 @@
+{
+  "name": "db-runner",
+  "private": true,
+  "version": "0.7.1",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "dev:client": "vite",
+    "dev:server": "tsx watch server/index.ts",
+    "test": "npm run build:server && node --test tests/*.test.mjs",
+    "build": "tsc && vite build && npm run build:server",
+    "build:server": "tsc -p tsconfig.server.json",
+    "start": "node .server-build/server/index.js",
+    "online:admin": "node .server-build/server/admin.js",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.2",
+    "vite": "^6.4.5"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "description": "A browser-based endless runner prototype with a TypeScript and Canvas 2D client and optional online features."
+}
